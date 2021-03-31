@@ -4,14 +4,20 @@
 
 
 Added Some screens here.
+![](https://github.com/pawankv89/allinoneappstore/blob/master/images/screen_1.PNG)
+![](https://github.com/pawankv89/allinoneappstore/blob/master/images/screen_2.PNG)
+![](https://github.com/pawankv89/allinoneappstore/blob/master/images/screen_3.PNG)
+![](https://github.com/pawankv89/allinoneappstore/blob/master/images/screen_4.PNG)
 
 
 ### Download Link
 https://pawankv89.github.io/allinoneappstore/index.html
 
 ### Description
-This App only for Entertainment, will keep your toddler entertained, educated and quiet in a car, in a restaurant, on a plane or everywhere
 
+```xml
+
+This App only for Entertainment, will keep your toddler entertained, educated and quiet in a car, in a restaurant, on a plane or everywhere
 • All In One includes English letters A to Z
 • 1 se 100 tak pahade (Tables) is presented to you by All In One
 
@@ -31,5 +37,7 @@ This App only for Entertainment, will keep your toddler entertained, educated an
 ** Sea Animals Names
 ** Insects Animals Names
 ** States Name With Capital
+```
+
 
 
